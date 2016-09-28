@@ -12,6 +12,8 @@ This script is a very simple first version and a research project and not really
 - add gusts
 - sailingstyle
 - sailing level (expert/intermediate)
+- my sails
+- overpowered advice, underpowered advice
 - learning from past experiences
 
 
